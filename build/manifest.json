@@ -1,0 +1,15 @@
+{
+  "name": "Emoji Picker",
+  "description": "Search and copy emoji",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Copy emoji to clipboard"
+  },
+  "icons": {
+    "16": "emoji128.png",
+    "48": "emoji128.png",
+    "128": "emoji128.png"
+  }
+}
